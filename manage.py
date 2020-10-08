@@ -184,7 +184,7 @@ app.config["UPLOAD_FOLDER"] = YUKLEME_KLASORU
 # Mysql Bağlantıları - Mysql Connections
 app.config["MYSQL_HOST"] = "comicsman.mysql.pythonanywhere-services.com"
 app.config["MYSQL_USER"] = "comicsman"
-app.config["MYSQL_PASSWORD"] = "Ekox.54321"
+app.config["MYSQL_PASSWORD"] = "password"
 app.config["MYSQL_DB"] = "comicsman$comicsman"
 app.config["MYSQL_CURSORCLASS"] = "DictCursor"
 
